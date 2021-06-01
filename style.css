@@ -1,0 +1,95 @@
+body {
+  background-color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  margin-top: 15px;
+}
+
+li {
+  margin-top: 5px;
+}
+.head {
+  text-align: center;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #A9A9A9;
+}
+
+.photo {
+  width: 25%;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#gabeid {
+  width: 100%;
+}
+
+.quote {
+  color: #708090;
+  padding: 3px;
+  text-align: center;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: italic;
+  font-size: 80%;
+}
+
+.para {
+  background-color: #1C2447;
+  color: #708090;
+  padding: 3px;
+  text-align: left;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.con {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  padding: 3px;
+  background-color: #191970;
+  color: #708090;
+}
+
+.head2 {
+  text-align: center;
+}
+
+.list {
+  background-color: #708090;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  color: #000000;
+  padding-top: 5px;
+}
+
+.foot {
+  background-color: white;
+  height: 100px;
+  width: 100%;
+  padding: 0px;
+  margin-top: 25px;
+}
+
+.l {
+  height: 100%;
+  float: left;
+  padding: 0px;
+  margin: 0px;
+}
+
+.r {
+  height: 100%;
+  float: right;
+  padding: 0px;
+  margin: 0px;
+}
