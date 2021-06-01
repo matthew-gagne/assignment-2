@@ -1,5 +1,5 @@
 body {
-  background-color: #000000;
+  background-color: #000;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -15,7 +15,7 @@ li {
   width: 30%;
   margin-left: auto;
   margin-right: auto;
-  background-color: #A9A9A9;
+  background-color: #a9a9a9;
 }
 
 .photo {
@@ -41,7 +41,7 @@ li {
 }
 
 .para {
-  background-color: #1C2447;
+  background-color: #1c2447;
   color: #708090;
   padding: 3px;
   text-align: left;
@@ -68,7 +68,7 @@ li {
   margin-left: auto;
   margin-right: auto;
   width: 75%;
-  color: #000000;
+  color: #000;
   padding-top: 5px;
 }
 
